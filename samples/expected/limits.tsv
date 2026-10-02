@@ -1,0 +1,5 @@
+archive	entries	segments	name_bytes	index_bound	read_slack
+many-small	500	510	13500	46684	1024
+few-large	5	29	76	1804	1024
+skewed	8	8	101	1637	1024
+long-names	12	12	7066	8858	1024
